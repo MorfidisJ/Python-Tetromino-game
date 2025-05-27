@@ -2,7 +2,7 @@
 
 A modern implementation of the classic Tetris game using Pygame, featuring smooth gameplay, piece holding, and a scoring system.
 
-![Tetris Game Screenshot](https://i.imgur.com/placeholder.png)
+![Tetris Game Screenshot](tetris.png)
 
 ## 📋 Table of Contents
 - [Features](#-features)
